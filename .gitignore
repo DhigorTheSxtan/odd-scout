@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*.local
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+.DS_Store
+cache_diario_ia.json

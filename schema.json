@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "FootballAnalyticsPayload",
+  "type": "object",
+  "required": ["status", "data_consulta", "total_partidas", "partidas"],
+  "properties": {
+    "status": {
+      "type": "string",
+      "example": "success"
+    },
+    "data_consulta": {
+      "type": "string",
+      "format": "date",
+      "example": "2026-09-13"
+    },
+    "total_partidas": {
+      "type": "integer",
+      "example": 6
+    },
+    "total_oportunidades_alta_confianca": {
+      "type": "integer",
+      "example": 14
+    },
+    "fonte_dados": {
+      "type": "object",
+      "properties": {
+        "origem": { "type": "string" },
+        "is_simulacao": { "type": "boolean" },
+        "aviso": { "type": "string" }
+      }
+    },
+    "partidas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["partida", "campeonato", "metricas_chave", "recomendacoes"],
+        "properties": {
+          "partida": {
+            "type": "object",
+            "required": ["id", "data_hora", "mandante", "visitante"],
+            "properties": {
+              "id": { "type": "integer", "example": 1201 },
+              "data_hora": { "type": "string", "example": "2026-09-13T16:00:00+00:00" },
+              "status": { "type": "string", "example": "NS" },
+              "status_descricao": { "type": "string", "example": "Não Iniciado" },
+              "estadio": { "type": "string", "example": "Emirates Stadium" },
+              "cidade": { "type": "string", "example": "London" },
+              "mandante": {
+                "type": "object",
+                "required": ["id", "nome"],
+                "properties": {
+                  "id": { "type": "integer", "example": 42 },
+                  "nome": { "type": "string", "example": "Arsenal" },
+                  "logo": { "type": "string", "example": "https://media.api-sports.io/football/teams/42.png" }
+                }
+              },
+              "visitante": {
+                "type": "object",
+                "required": ["id", "nome"],
+                "properties": {
+                  "id": { "type": "integer", "example": 50 },
+                  "nome": { "type": "string", "example": "Manchester City" },
+                  "logo": { "type": "string", "example": "https://media.api-sports.io/football/teams/50.png" }
+                }
+              }
+            }
+          },
+          "campeonato": {
+            "type": "object",
+            "required": ["id", "nome"],
+            "properties": {
+              "id": { "type": "integer", "example": 39 },
+              "nome": { "type": "string", "example": "Premier League" },
+              "pais": { "type": "string", "example": "England" },
+              "logo": { "type": "string", "example": "https://media.api-sports.io/football/leagues/39.png" },
+              "rodada": { "type": "string", "example": "Regular Season - 5" }
+            }
+          },
+          "has_sufficient_data": {
+            "type": "boolean",
+            "example": true
+          },
+          "sample_details": {
+            "type": "object",
+            "properties": {
+              "home_matches_analyzed": { "type": "integer", "example": 8 },
+              "away_matches_analyzed": { "type": "integer", "example": 8 },
+              "isolated_home_away_split": { "type": "boolean", "example": true }
+            }
+          },
+          "metricas_chave": {
+            "type": "object",
+            "properties": {
+              "gols_esperados": {
+                "type": "object",
+                "properties": {
+                  "home": { "type": "number", "example": 1.18 },
+                  "away": { "type": "number", "example": 0.78 },
+                  "total": { "type": "number", "example": 1.96 }
+                }
+              },
+              "mercados_poisson": {
+                "type": "object",
+                "properties": {
+                  "over_1_5": { "type": "number", "example": 78.4 },
+                  "over_2_5": { "type": "number", "example": 45.2 },
+                  "under_2_5": { "type": "number", "example": 54.8 },
+                  "btts_yes": { "type": "number", "example": 52.1 },
+                  "home_win": { "type": "number", "example": 46.5 },
+                  "draw": { "type": "number", "example": 28.3 },
+                  "away_win": { "type": "number", "example": 25.2 }
+                }
+              },
+              "escanteios": {
+                "type": "object",
+                "properties": {
+                  "disponivel": { "type": "boolean", "example": true },
+                  "esperado_mandante": { "type": "number", "example": 5.5 },
+                  "esperado_visitante": { "type": "number", "example": 4.0 },
+                  "esperado_total": { "type": "number", "example": 9.5 }
+                }
+              },
+              "finalizacoes": {
+                "type": "object",
+                "properties": {
+                  "disponivel": { "type": "boolean", "example": true },
+                  "total_esperado": { "type": "number", "example": 29.9 },
+                  "no_alvo_esperado": { "type": "number", "example": 12.3 }
+                }
+              },
+              "laterais": {
+                "type": "object",
+                "properties": {
+                  "disponivel": { "type": "boolean", "example": true },
+                  "esperado_total": { "type": "number", "example": 43.2 },
+                  "intensidade": { "type": "string", "example": "Alta" }
+                }
+              }
+            }
+          },
+          "recomendacoes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["mercado", "selecao", "confianca_porcentagem", "nivel", "justificativa"],
+              "properties": {
+                "mercado": { "type": "string", "example": "Escanteios" },
+                "selecao": { "type": "string", "example": "Over 8.5 Escanteios" },
+                "confianca_porcentagem": { "type": "number", "example": 82.5 },
+                "nivel": { "type": "string", "enum": ["Alta", "Moderada", "Neutro"], "example": "Alta" },
+                "justificativa": { "type": "string", "example": "Média combinada de 9.5 cantos nos últimos 8 jogos isolados casa/fora." }
+              }
+            }
+          },
+          "score_matrix": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": { "type": "number" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

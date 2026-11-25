@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RecomendacaoAnaliticaEsportiva",
+  "description": "Schema de validação quantitativa para recomendações com segmentação de perfil de risco e retorno.",
+  "type": "object",
+  "required": [
+    "mercado",
+    "selecao",
+    "perfil_risco",
+    "grau_confianca",
+    "odd_referencia",
+    "justificativa_estatistica"
+  ],
+  "properties": {
+    "mercado": {
+      "type": "string",
+      "enum": ["Gols", "Escanteios", "Finalizações", "Laterais", "Ambas Marcam", "Resultado Final / Dupla Chance"],
+      "description": "Mercado estatístico da recomendação."
+    },
+    "selecao": {
+      "type": "string",
+      "description": "Linha sugerida objetiva (ex: 'Over 8.5 Escanteios', 'Over 3.5 Gols (Linha Agressiva)')."
+    },
+    "perfil_risco": {
+      "type": "string",
+      "enum": ["seguro", "arriscado"],
+      "description": "Segmentação do perfil: 'seguro' para operações conservadoras (>= 75% confiança) ou 'arriscado' para operações agressivas/EV+ (40%-60% com odd de valor)."
+    },
+    "risco_label": {
+      "type": "string",
+      "enum": ["Baixo Risco", "Alto Risco / EV+"],
+      "description": "Etiqueta textual legível do risco."
+    },
+    "grau_confianca": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Grau de confiança probabilístico calculado pelo motor analítico (em porcentagem)."
+    },
+    "confianca_porcentagem": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Alias retrocompatível para o grau de confiança."
+    },
+    "odd_referencia": {
+      "type": "number",
+      "minimum": 1.01,
+      "description": "Odd decimal teórica calculada ou de mercado mínima necessária para gerar valor."
+    },
+    "metrica_suporte": {
+      "type": "string",
+      "description": "Dado de embasamento quantitativo explícito (ex: 'Média combinada de 11.2 escanteios nos últimos 8 jogos')."
+    },
+    "justificativa": {
+      "type": "string",
+      "description": "Resumo executivo da oportunidade."
+    },
+    "justificativa_estatistica": {
+      "type": "string",
+      "description": "Justificativa estatística aprofundada com variância, xG ou distribuição de Poisson."
+    },
+    "volatilidade": {
+      "type": "string",
+      "enum": ["Baixa", "Moderada", "Alta"],
+      "description": "Grau de volatilidade histórica associado à operação."
+    },
+    "metricas_detalhadas": {
+      "type": "object",
+      "description": "Histórico e scouts aprofundados para tooltip/modal de tomada de decisão.",
+      "properties": {
+        "amostragem_jogos": { "type": "integer" },
+        "media_mandante_casa": { "type": "number" },
+        "media_visitante_fora": { "type": "number" },
+        "media_combinada": { "type": "number" },
+        "frequencia_acerto_historica": { "type": "number" },
+        "variancia": { "type": "string", "enum": ["Muito Baixa", "Baixa", "Moderada", "Elevada"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,1094 @@
+{
+    "data": "2026-09-24",
+    "palpites": {
+        "APISPORTS_495093": {
+            "fixture_id": "APISPORTS_495093",
+            "match_id": "APISPORTS_495093",
+            "home_team": "Indiana Fever W",
+            "away_team": "Minnesota Lynx W",
+            "recommended_market": "Mais de 8.5 escanteios",
+            "market": "Mais de 8.5 escanteios",
+            "best_market": "Mais de 8.5 escanteios",
+            "probability_pct": 79,
+            "market_prob": 79,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 9.4 escanteios totais nos últimos 5 confrontos das equipes. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_495094": {
+            "fixture_id": "APISPORTS_495094",
+            "match_id": "APISPORTS_495094",
+            "home_team": "Chicago Sky W",
+            "away_team": "Toronto Tempo W",
+            "recommended_market": "Total Mais de 2.0 Gols",
+            "market": "Total Mais de 2.0 Gols",
+            "best_market": "Total Mais de 2.0 Gols",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas equipes marcaram em 4 dos últimos 5 jogos oficiais. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_495095": {
+            "fixture_id": "APISPORTS_495095",
+            "match_id": "APISPORTS_495095",
+            "home_team": "Las Vegas Aces W",
+            "away_team": "Los Angeles Sparks W",
+            "recommended_market": "Vencedor Mandante (1X2)",
+            "market": "Vencedor Mandante (1X2)",
+            "best_market": "Vencedor Mandante (1X2)",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante invicto nas últimas 5 partidas em casa com saldo positivo. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_495096": {
+            "fixture_id": "APISPORTS_495096",
+            "match_id": "APISPORTS_495096",
+            "home_team": "Portland Fire W",
+            "away_team": "Golden State Valkyries W",
+            "recommended_market": "Mais de 7.5 escanteios",
+            "market": "Mais de 7.5 escanteios",
+            "best_market": "Mais de 7.5 escanteios",
+            "probability_pct": 82,
+            "market_prob": 82,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.95
+                }
+            ],
+            "odds_media": 2.01,
+            "reasoning": "Nos últimos 5 jogos: Visitante cede em média 6.5 cantos fora e mandante cobra 6.8 em casa. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_504575": {
+            "fixture_id": "APISPORTS_504575",
+            "match_id": "APISPORTS_504575",
+            "home_team": "Alvark",
+            "away_team": "Ryukyu",
+            "recommended_market": "Ambas Marcam (Sim)",
+            "market": "Ambas Marcam (Sim)",
+            "best_market": "Ambas Marcam (Sim)",
+            "probability_pct": 77,
+            "market_prob": 77,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.04
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.98
+                }
+            ],
+            "odds_media": 2.04,
+            "reasoning": "Nos últimos 5 jogos: Taxa de 80% de gols mútuos nos últimos 5 jogos recentes de cada lado. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_512974": {
+            "fixture_id": "APISPORTS_512974",
+            "match_id": "APISPORTS_512974",
+            "home_team": "Shanghai",
+            "away_team": "RSSB Tigers",
+            "recommended_market": "Mais de 8.5 escanteios",
+            "market": "Mais de 8.5 escanteios",
+            "best_market": "Mais de 8.5 escanteios",
+            "probability_pct": 79,
+            "market_prob": 79,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 9.4 escanteios totais nos últimos 5 confrontos das equipes. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_501182": {
+            "fixture_id": "APISPORTS_501182",
+            "match_id": "APISPORTS_501182",
+            "home_team": "Cairns Taipans",
+            "away_team": "Tasmania JackJumpers",
+            "recommended_market": "Total Mais de 2.0 Gols",
+            "market": "Total Mais de 2.0 Gols",
+            "best_market": "Total Mais de 2.0 Gols",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas equipes marcaram em 4 dos últimos 5 jogos oficiais. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_504576": {
+            "fixture_id": "APISPORTS_504576",
+            "match_id": "APISPORTS_504576",
+            "home_team": "Nagasaki",
+            "away_team": "Shimane",
+            "recommended_market": "Vencedor Mandante (1X2)",
+            "market": "Vencedor Mandante (1X2)",
+            "best_market": "Vencedor Mandante (1X2)",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante invicto nas últimas 5 partidas em casa com saldo positivo. (HTTP 404)",
+            "sport": "basquete",
+            "modalidade": "Basquete",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_512975": {
+            "fixture_id": "APISPORTS_512975",
+            "match_id": "APISPORTS_512975",
+            "home_team": "Beijing Royal Fighters",
+            "away_team": "G League United",
+            "recommended_market": "Mais de 8.5 escanteios",
+            "market": "Mais de 8.5 escanteios",
+            "best_market": "Mais de 8.5 escanteios",
+            "probability_pct": 79,
+            "market_prob": 79,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 9.4 escanteios totais nos últimos 5 confrontos das equipes. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_520855": {
+            "fixture_id": "APISPORTS_520855",
+            "match_id": "APISPORTS_520855",
+            "home_team": "Tong Whye",
+            "away_team": "Xin Hua",
+            "recommended_market": "Total Mais de 2.0 Gols",
+            "market": "Total Mais de 2.0 Gols",
+            "best_market": "Total Mais de 2.0 Gols",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas equipes marcaram em 4 dos últimos 5 jogos oficiais. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_520856": {
+            "fixture_id": "APISPORTS_520856",
+            "match_id": "APISPORTS_520856",
+            "home_team": "SG Basketball",
+            "away_team": "SBA",
+            "recommended_market": "Vencedor Mandante (1X2)",
+            "market": "Vencedor Mandante (1X2)",
+            "best_market": "Vencedor Mandante (1X2)",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante invicto nas últimas 5 partidas em casa com saldo positivo. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_512749": {
+            "fixture_id": "APISPORTS_512749",
+            "match_id": "APISPORTS_512749",
+            "home_team": "Neftchi IK",
+            "away_team": "Parnu",
+            "recommended_market": "Mais de 7.5 escanteios",
+            "market": "Mais de 7.5 escanteios",
+            "best_market": "Mais de 7.5 escanteios",
+            "probability_pct": 82,
+            "market_prob": 82,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.95
+                }
+            ],
+            "odds_media": 2.01,
+            "reasoning": "Nos últimos 5 jogos: Visitante cede em média 6.5 cantos fora e mandante cobra 6.8 em casa. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_512335": {
+            "fixture_id": "APISPORTS_512335",
+            "match_id": "APISPORTS_512335",
+            "home_team": "Neptunas",
+            "away_team": "Juventus",
+            "recommended_market": "Ambas Marcam (Sim)",
+            "market": "Ambas Marcam (Sim)",
+            "best_market": "Ambas Marcam (Sim)",
+            "probability_pct": 77,
+            "market_prob": 77,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.04
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.98
+                }
+            ],
+            "odds_media": 2.04,
+            "reasoning": "Nos últimos 5 jogos: Taxa de 80% de gols mútuos nos últimos 5 jogos recentes de cada lado. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_514711": {
+            "fixture_id": "APISPORTS_514711",
+            "match_id": "APISPORTS_514711",
+            "home_team": "Bisons Loimaa",
+            "away_team": "Salon Vilpas",
+            "recommended_market": "Mais de 8.5 escanteios",
+            "market": "Mais de 8.5 escanteios",
+            "best_market": "Mais de 8.5 escanteios",
+            "probability_pct": 79,
+            "market_prob": 79,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 9.4 escanteios totais nos últimos 5 confrontos das equipes. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_514712": {
+            "fixture_id": "APISPORTS_514712",
+            "match_id": "APISPORTS_514712",
+            "home_team": "Kipina",
+            "away_team": "Karhu Basket",
+            "recommended_market": "Total Mais de 2.0 Gols",
+            "market": "Total Mais de 2.0 Gols",
+            "best_market": "Total Mais de 2.0 Gols",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas equipes marcaram em 4 dos últimos 5 jogos oficiais. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_520888": {
+            "fixture_id": "APISPORTS_520888",
+            "match_id": "APISPORTS_520888",
+            "home_team": "Tal Tech",
+            "away_team": "Fyllingen",
+            "recommended_market": "Vencedor Mandante (1X2)",
+            "market": "Vencedor Mandante (1X2)",
+            "best_market": "Vencedor Mandante (1X2)",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante invicto nas últimas 5 partidas em casa com saldo positivo. (HTTP 404)",
+            "sport": "nba",
+            "modalidade": "NBA",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_MMA_101": {
+            "fixture_id": "APISPORTS_MMA_101",
+            "match_id": "APISPORTS_MMA_101",
+            "home_team": "Jon Jones",
+            "away_team": "Stipe Miocic",
+            "recommended_market": "Mais de 8.5 escanteios",
+            "market": "Mais de 8.5 escanteios",
+            "best_market": "Mais de 8.5 escanteios",
+            "probability_pct": 79,
+            "market_prob": 79,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 9.4 escanteios totais nos últimos 5 confrontos das equipes. (HTTP 404)",
+            "sport": "mma/ufc",
+            "modalidade": "MMA/UFC",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_MMA_102": {
+            "fixture_id": "APISPORTS_MMA_102",
+            "match_id": "APISPORTS_MMA_102",
+            "home_team": "Islam Makhachev",
+            "away_team": "Arman Tsarukyan",
+            "recommended_market": "Total Mais de 2.0 Gols",
+            "market": "Total Mais de 2.0 Gols",
+            "best_market": "Total Mais de 2.0 Gols",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas equipes marcaram em 4 dos últimos 5 jogos oficiais. (HTTP 404)",
+            "sport": "mma/ufc",
+            "modalidade": "MMA/UFC",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "APISPORTS_MMA_103": {
+            "fixture_id": "APISPORTS_MMA_103",
+            "match_id": "APISPORTS_MMA_103",
+            "home_team": "Alex Pereira",
+            "away_team": "Magomed Ankalaev",
+            "recommended_market": "Vencedor Mandante (1X2)",
+            "market": "Vencedor Mandante (1X2)",
+            "best_market": "Vencedor Mandante (1X2)",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante invicto nas últimas 5 partidas em casa com saldo positivo. (HTTP 404)",
+            "sport": "mma/ufc",
+            "modalidade": "MMA/UFC",
+            "data": "2026-09-23",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700572": {
+            "fixture_id": "PANDA_1700572",
+            "match_id": "PANDA_1700572",
+            "home_team": "Villainous",
+            "away_team": "New Legends",
+            "recommended_market": "Vencedor da Partida (Moneyline)",
+            "market": "Vencedor da Partida (Moneyline)",
+            "best_market": "Vencedor da Partida (Moneyline)",
+            "probability_pct": 78,
+            "market_prob": 78,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 75% de vitória nos últimos 5 confrontos oficiais. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700569": {
+            "fixture_id": "PANDA_1700569",
+            "match_id": "PANDA_1700569",
+            "home_team": "LAG Gaming",
+            "away_team": "Zomblers",
+            "recommended_market": "Mais de 2.5 Mapas",
+            "market": "Mais de 2.5 Mapas",
+            "best_market": "Mais de 2.5 Mapas",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas as equipes disputaram o mapa decisivo em 4 dos últimos 5 confrontos. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700577": {
+            "fixture_id": "PANDA_1700577",
+            "match_id": "PANDA_1700577",
+            "home_team": "FlyQuest RED",
+            "away_team": "Marsborne",
+            "recommended_market": "Vencedor do Mapa 1",
+            "market": "Vencedor do Mapa 1",
+            "best_market": "Vencedor do Mapa 1",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante venceu o primeiro mapa em 80% das últimas partidas. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700571": {
+            "fixture_id": "PANDA_1700571",
+            "match_id": "PANDA_1700571",
+            "home_team": "Club 333",
+            "away_team": "Detonate",
+            "recommended_market": "Handicap de Mapas (+1.5)",
+            "market": "Handicap de Mapas (+1.5)",
+            "best_market": "Handicap de Mapas (+1.5)",
+            "probability_pct": 81,
+            "market_prob": 81,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.95
+                }
+            ],
+            "odds_media": 2.01,
+            "reasoning": "Nos últimos 5 jogos: Equipe cobriu a linha de handicap em todas as últimas 5 séries disputadas. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700573": {
+            "fixture_id": "PANDA_1700573",
+            "match_id": "PANDA_1700573",
+            "home_team": "FRZ Unit",
+            "away_team": "Overtake Sector",
+            "recommended_market": "Total Acima de 21.5 Rounds",
+            "market": "Total Acima de 21.5 Rounds",
+            "best_market": "Total Acima de 21.5 Rounds",
+            "probability_pct": 73,
+            "market_prob": 73,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.04
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 2.01
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.98
+                }
+            ],
+            "odds_media": 2.04,
+            "reasoning": "Nos últimos 5 jogos: Partidas recentes com alta densidade de rounds e prorrogações. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700575": {
+            "fixture_id": "PANDA_1700575",
+            "match_id": "PANDA_1700575",
+            "home_team": "FarmVille",
+            "away_team": "NuTorious",
+            "recommended_market": "Vencedor da Partida (Moneyline)",
+            "market": "Vencedor da Partida (Moneyline)",
+            "best_market": "Vencedor da Partida (Moneyline)",
+            "probability_pct": 78,
+            "market_prob": 78,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.89
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.86
+                }
+            ],
+            "odds_media": 1.92,
+            "reasoning": "Nos últimos 5 jogos: Média de 75% de vitória nos últimos 5 confrontos oficiais. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1700576": {
+            "fixture_id": "PANDA_1700576",
+            "match_id": "PANDA_1700576",
+            "home_team": "Iowa Stormboar",
+            "away_team": "Wanted Goons",
+            "recommended_market": "Mais de 2.5 Mapas",
+            "market": "Mais de 2.5 Mapas",
+            "best_market": "Mais de 2.5 Mapas",
+            "probability_pct": 74,
+            "market_prob": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.92
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.89
+                }
+            ],
+            "odds_media": 1.95,
+            "reasoning": "Nos últimos 5 jogos: Ambas as equipes disputaram o mapa decisivo em 4 dos últimos 5 confrontos. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "22/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "PANDA_1697626": {
+            "fixture_id": "PANDA_1697626",
+            "match_id": "PANDA_1697626",
+            "home_team": "Solary",
+            "away_team": "Saigon Warriors",
+            "recommended_market": "Vencedor do Mapa 1",
+            "market": "Vencedor do Mapa 1",
+            "best_market": "Vencedor do Mapa 1",
+            "probability_pct": 76,
+            "market_prob": 76,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.98
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.95
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.92
+                }
+            ],
+            "odds_media": 1.98,
+            "reasoning": "Nos últimos 5 jogos: Mandante venceu o primeiro mapa em 80% das últimas partidas. (HTTP 404)",
+            "sport": "esports",
+            "modalidade": "esports",
+            "data": "23/09",
+            "provedor": "gemini_compact_fallback",
+            "grounding": false
+        },
+        "Arsenal_Chelsea": {
+            "match_id": "Arsenal_Chelsea",
+            "fixture_id": "Arsenal_Chelsea",
+            "home_team": "Arsenal",
+            "away_team": "Chelsea",
+            "league": "Premier League",
+            "data": "2026-09-26",
+            "last_5_home": [
+                "V",
+                "V",
+                "E",
+                "V",
+                "D"
+            ],
+            "last_5_away": [
+                "D",
+                "V",
+                "E",
+                "D",
+                "V"
+            ],
+            "recommended_market": "Over 2.5 Gols",
+            "best_market": "Over 2.5 Gols",
+            "market": "Over 2.5 Gols",
+            "market_prob": 78,
+            "probability_pct": 78,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.93
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.9
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.87
+                }
+            ],
+            "odds_media": 1.93,
+            "reasoning": "Arsenal com média de 2.1 xG em casa e Chelsea sofrendo gols nos últimos 4 jogos fora. (HTTP 404)",
+            "provedor": "gemini_fallback_motor",
+            "grounding": false
+        },
+        "RealMadrid_Barcelona": {
+            "match_id": "RealMadrid_Barcelona",
+            "fixture_id": "RealMadrid_Barcelona",
+            "home_team": "Real Madrid",
+            "away_team": "Barcelona",
+            "league": "La Liga",
+            "data": "2026-09-26",
+            "last_5_home": [
+                "V",
+                "V",
+                "E",
+                "V",
+                "D"
+            ],
+            "last_5_away": [
+                "D",
+                "V",
+                "E",
+                "D",
+                "V"
+            ],
+            "recommended_market": "Ambas Marcam (Sim)",
+            "best_market": "Ambas Marcam (Sim)",
+            "market": "Ambas Marcam (Sim)",
+            "market_prob": 82,
+            "probability_pct": 82,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.96
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.93
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.9
+                }
+            ],
+            "odds_media": 1.96,
+            "reasoning": "Confronto direto com alto volume ofensivo e histórico de 85% de BTTS nos últimos clássicos. (HTTP 404)",
+            "provedor": "gemini_fallback_motor",
+            "grounding": false
+        },
+        "Flamengo_Palmeiras": {
+            "match_id": "Flamengo_Palmeiras",
+            "fixture_id": "Flamengo_Palmeiras",
+            "home_team": "Flamengo",
+            "away_team": "Palmeiras",
+            "league": "Brasileirão Série A",
+            "data": "2026-09-26",
+            "last_5_home": [
+                "V",
+                "V",
+                "E",
+                "V",
+                "D"
+            ],
+            "last_5_away": [
+                "D",
+                "V",
+                "E",
+                "D",
+                "V"
+            ],
+            "recommended_market": "Menos de 2.5 Gols",
+            "best_market": "Menos de 2.5 Gols",
+            "market": "Menos de 2.5 Gols",
+            "market_prob": 74,
+            "probability_pct": 74,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 1.99
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.96
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.93
+                }
+            ],
+            "odds_media": 1.99,
+            "reasoning": "Duelo tático truncado entre defesas de ponta com média inferior a 2.0 gols nos últimos 5 jogos. (HTTP 404)",
+            "provedor": "gemini_fallback_motor",
+            "grounding": false
+        },
+        "BayernMunich_BorussiaDortmund": {
+            "match_id": "BayernMunich_BorussiaDortmund",
+            "fixture_id": "BayernMunich_BorussiaDortmund",
+            "home_team": "Bayern Munich",
+            "away_team": "Borussia Dortmund",
+            "league": "Bundesliga",
+            "data": "2026-09-26",
+            "last_5_home": [
+                "V",
+                "V",
+                "E",
+                "V",
+                "D"
+            ],
+            "last_5_away": [
+                "D",
+                "V",
+                "E",
+                "D",
+                "V"
+            ],
+            "recommended_market": "Mais de 3.0 Gols",
+            "best_market": "Mais de 3.0 Gols",
+            "market": "Mais de 3.0 Gols",
+            "market_prob": 80,
+            "probability_pct": 80,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.02
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 1.99
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.96
+                }
+            ],
+            "odds_media": 2.02,
+            "reasoning": "Ambas equipes com taxa de conversão superior a 70% e defesas adiantadas em jogos grandes. (HTTP 404)",
+            "provedor": "gemini_fallback_motor",
+            "grounding": false
+        },
+        "InterMilão_Juventus": {
+            "match_id": "InterMilão_Juventus",
+            "fixture_id": "InterMilão_Juventus",
+            "home_team": "Inter Milão",
+            "away_team": "Juventus",
+            "league": "Serie A",
+            "data": "2026-09-26",
+            "last_5_home": [
+                "V",
+                "V",
+                "E",
+                "V",
+                "D"
+            ],
+            "last_5_away": [
+                "D",
+                "V",
+                "E",
+                "D",
+                "V"
+            ],
+            "recommended_market": "Dupla Chance Inter ou Empate (1X)",
+            "best_market": "Dupla Chance Inter ou Empate (1X)",
+            "market": "Dupla Chance Inter ou Empate (1X)",
+            "market_prob": 81,
+            "probability_pct": 81,
+            "top_3_bookmakers": [
+                {
+                    "bookmaker": "Betano",
+                    "odd": 2.05
+                },
+                {
+                    "bookmaker": "Superbet",
+                    "odd": 2.02
+                },
+                {
+                    "bookmaker": "Bet365",
+                    "odd": 1.99
+                }
+            ],
+            "odds_media": 2.05,
+            "reasoning": "Inter invicta como mandante nos últimos 6 jogos oficiais com consistência defensiva sólida. (HTTP 404)",
+            "provedor": "gemini_fallback_motor",
+            "grounding": false
+        }
+    }
+}
